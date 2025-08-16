@@ -25,6 +25,6 @@ This project exposes REST APIs for CRUD operations on movies.
    https://github.com/ABHIRAM3046/Movie-Backend.git
    ```
 2. Start MongoDB and Import the data from the following file
-   !{Data/movies.json}
+   `Data/movies.json`
 3. Run the Spring Boot Application.
 
