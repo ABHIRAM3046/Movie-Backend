@@ -1,6 +1,6 @@
 # Movie Management System with Reviews 🎬
 
-A Spring Boot + MongoDB backend for managing movies.  
+A ReactJs + Spring Boot + MongoDB backend for managing movies.  
 This project exposes REST APIs for CRUD operations on movies.
 
 ## Features
