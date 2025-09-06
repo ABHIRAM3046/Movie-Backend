@@ -1,15 +1,17 @@
-# Movie Backend API 🎬
+# Movie Management System with Reviews 🎬
 
 A Spring Boot + MongoDB backend for managing movies.  
 This project exposes REST APIs for CRUD operations on movies.
 
 ## Features
+- Responsive UI
 - Get all movies
 - Get movie by ID
 - Add Reviews
 - MongoDB integration
 
 ## Tech Stack
+- ReactJs
 - Java Spring Boot
 - MongoDB
 - Maven
